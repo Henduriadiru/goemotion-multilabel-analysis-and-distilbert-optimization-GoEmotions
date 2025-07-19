@@ -1,5 +1,3 @@
-# goemotion-multilabel-analysis-and-distilbert-optimization-GoEmotions-ONNX
-
 # GoEmotions Multi-Label Emotion Classification with DistilBERT, LoRA, Optuna, and ONNX
 
 This repository presents a complete deep learning pipeline for multi-label emotion classification using the [GoEmotions](https://github.com/google-research/goemotions) dataset. All modeling and training steps are implemented in **pure PyTorch**, without relying on HuggingFace's Trainer or pipeline. HuggingFace Transformers are used only for loading pretrained models and tokenizers.
